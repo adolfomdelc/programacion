@@ -1,0 +1,3 @@
+Para hacer un comentario en HTML : ctrl + K + C
+Para guardar rápido : ctrl + S
+Refresh : ctrl + R
